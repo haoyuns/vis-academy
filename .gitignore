@@ -6,3 +6,4 @@ coverage/
 .nyc_output/
 
 .idea
+src/demos/building-a-geospatial-app/starting-code/.bash_profile
